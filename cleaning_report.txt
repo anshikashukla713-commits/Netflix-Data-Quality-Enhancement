@@ -1,0 +1,14 @@
+
+NETFLIX DATA QUALITY REPORT
+
+Total Records: 8807
+Total Columns: 12
+
+Missing Values Remaining:
+0
+
+Duplicate Records:
+0
+
+Invalid Release Years:
+0
